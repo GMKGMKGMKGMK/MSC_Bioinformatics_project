@@ -13,3 +13,4 @@ or
 ``` bash
 nextflow run ./main.nf
 ```
+The outputs will be in the plots and results folders
