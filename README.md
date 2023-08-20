@@ -1,1 +1,1 @@
-# MSC_Bioinformatics_project
+# MSC Bioinformatics project
