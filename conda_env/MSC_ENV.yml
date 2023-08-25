@@ -16,7 +16,7 @@ dependencies:
   - bracken=2.8=py36h2ad2d48_0
   - bzip2=1.0.8=h7f98852_4
   - c-ares=1.19.1=hd590300_0
-  - ca-certificates=2023.01.10=h06a4308_0
+  - ca-certificates=2023.7.22=hbcca054_0
   - cairo=1.16.0=hbbf8b49_1016
   - certifi=2020.6.20=pyhd3eb1b0_3
   - coreutils=8.25=1
@@ -133,6 +133,7 @@ dependencies:
   - scipy=1.5.3=py36h976291a_0
   - seaborn=0.11.2=pyhd3eb1b0_0
   - seqkit=2.5.1=h9ee0642_0
+  - seqtk=1.4=he4a0461_1
   - setuptools=49.6.0=py36h5fab9bb_3
   - six=1.16.0=pyhd3eb1b0_1
   - sqlite=3.42.0=h2c6b66d_0
@@ -140,6 +141,7 @@ dependencies:
   - tk=8.6.12=h1ccaba5_0
   - tzdata=2022a=hda174b7_0
   - wget=1.20.3=ha56f1ee_1
+  - wgsim=1.0=he4a0461_7
   - wheel=0.37.1=pyhd3eb1b0_0
   - xorg-fixesproto=5.0=h7f98852_1002
   - xorg-inputproto=2.3.2=h7f98852_1002
