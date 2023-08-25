@@ -1,0 +1,3 @@
+Braken_Percentage   2500
+Kraken_Percentage   2500
+Centrifuge_Percentage   500

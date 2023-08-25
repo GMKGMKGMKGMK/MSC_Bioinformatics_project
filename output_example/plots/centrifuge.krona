@@ -1,0 +1,12 @@
+name	taxID	taxRank	genomeSize	numReads	numUniqueReads	abundance
+Escherichia fergusonii	564	species	4645928	1	1	0.0
+Shigella dysenteriae	622	species	5192674	5	5	0.0
+Shigella sonnei	624	species	4762774	4	4	0.0
+Staphylococcus aureus subsp. aureus NCTC 8325	93061	strain	2821361	13	13	0.0
+Shigella flexneri 2a str. 301	198214	strain	4828820	10	10	0.0
+Pseudomonas aeruginosa PAO1	208964	strain	6264404	32	32	1
+Klebsiella variicola	244366	species	5536651	1	1	0.0
+Atlantibacter subterranea	255519	species	4778848	1	1	0.0
+Escherichia coli O157:H7 str. Sakai	386585	strain	5594605	6	6	0.0
+Staphylococcus argenteus	985002	species	2787638	2	2	0.0
+Klebsiella pneumoniae subsp. pneumoniae HS11286	1125630	strain	5682322	26	26	0.0

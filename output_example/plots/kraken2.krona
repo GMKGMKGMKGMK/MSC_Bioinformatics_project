@@ -1,0 +1,36 @@
+100.00	101	0	R	1	root
+100.00	101	0	R1	131567	  cellular organisms
+100.00	101	0	D	2	    Bacteria
+ 85.15	86	0	P	1224	      Pseudomonadota
+ 85.15	86	0	C	1236	        Gammaproteobacteria
+ 53.47	54	0	O	91347	          Enterobacterales
+ 53.47	54	0	F	543	            Enterobacteriaceae
+ 26.73	27	0	F1	2890311	              Klebsiella/Raoultella group
+ 26.73	27	0	G	570	                Klebsiella
+ 24.75	25	0	S	573	                  Klebsiella pneumoniae
+ 24.75	25	0	S1	72407	                    Klebsiella pneumoniae subsp. pneumoniae
+ 24.75	25	25	S2	1125630	                      Klebsiella pneumoniae subsp. pneumoniae HS11286
+  0.99	1	1	S	244366	                  Klebsiella variicola
+  0.99	1	1	S	2489010	                  Klebsiella africana
+ 22.77	23	0	G	620	              Shigella
+ 10.89	11	0	S	623	                Shigella flexneri
+ 10.89	11	0	S1	42897	                  Shigella flexneri 2a
+ 10.89	11	11	S2	198214	                    Shigella flexneri 2a str. 301
+  6.93	7	7	S	622	                Shigella dysenteriae
+  4.95	5	5	S	624	                Shigella sonnei
+  3.96	4	0	G	561	              Escherichia
+  3.96	4	4	S	564	                Escherichia fergusonii
+ 31.68	32	0	O	72274	          Pseudomonadales
+ 31.68	32	0	F	135621	            Pseudomonadaceae
+ 31.68	32	0	G	286	              Pseudomonas
+ 31.68	32	0	G1	136841	                Pseudomonas aeruginosa group
+ 31.68	32	0	S	287	                  Pseudomonas aeruginosa
+ 31.68	32	32	S1	208964	                    Pseudomonas aeruginosa PAO1
+ 14.85	15	0	D1	1783272	      Terrabacteria group
+ 14.85	15	0	P	1239	        Bacillota
+ 14.85	15	0	C	91061	          Bacilli
+ 14.85	15	0	O	1385	            Bacillales
+ 14.85	15	0	F	90964	              Staphylococcaceae
+ 14.85	15	0	G	1279	                Staphylococcus
+ 14.85	15	0	S	1280	                  Staphylococcus aureus
+ 14.85	15	15	S1	93061	                    Staphylococcus aureus subsp. aureus NCTC 8325
